@@ -33,7 +33,7 @@ jobs:
         run: echo Obter credenciais nos secrets
 
       - name: Run a one-line script
-      run: echo Ao inicio acionar API com log de scan iniciado
+        run: echo Ao inicio acionar API com log de scan iniciado
 
       # - name: Run a one-line script
       # run: echo Executar script Python nos arquivos do repo e acionar API em possiveis vulnerabilidades
