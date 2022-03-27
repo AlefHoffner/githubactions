@@ -29,8 +29,8 @@ jobs:
       - name: Run a one-line script
         run: echo Hello, world!
 
-      # - name: Run a one-line script
-      #   run: echo Obter credenciais nos secrets
+      - name: Run a one-line script
+        run: echo Obter credenciais nos secrets
 
       # - name: Run a one-line script
       # run: echo Ao inicio acionar API com log de scan iniciado
